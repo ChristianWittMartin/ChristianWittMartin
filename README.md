@@ -1,6 +1,32 @@
-## Hi there 👋
+<h1>Hi, I'm Christian! <br/><a href="https://github.com/ChristianWittMartin/">Programmer</a> <h0> and <a href="https://www.linkedin.com/in/christianwittmartin/">IT Professional</a>
+
+<h2>👨‍💻 IT Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Active Directory Home Lab](https://github.com/ChristianWittMartin/)
+
+<h2>Certifications</h2>
+
+- [CompTIA A+](https://www.credly.com/badges/06ba39cc-b305-400c-ae06-1a00c012cb02/public_url)
+
+<h2>📺YouTube Videos & Blog Posts </h2>
+
+- [Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
 
 <!--
+<h2> 🤳 Connect with me on LinkedIn:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[linkedin]: https://www.linkedin.com/in/christianwittmartin
+
+
 **ChristianWittMartin/ChristianWittMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
