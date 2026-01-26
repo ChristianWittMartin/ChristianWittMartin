@@ -10,13 +10,14 @@
 
 - [CompTIA A+](https://www.credly.com/badges/06ba39cc-b305-400c-ae06-1a00c012cb02/public_url)
 
-<h2>📺YouTube Videos & Blog Posts </h2>
+<!--
+<h2>📺Videos & Blog Posts </h2>
 
 - [Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 
-<!--
+
 <h2> 🤳 Connect with me on LinkedIn:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
