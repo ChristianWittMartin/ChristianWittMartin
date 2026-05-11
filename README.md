@@ -1,10 +1,26 @@
-<h1>Hi, I'm Christian! <br/><a href="https://github.com/ChristianWittMartin/">Programmer</a> <h0> and <a href="https://www.linkedin.com/in/christianwittmartin/">IT Professional</a>
+<h1>Hi, I'm Christian!</h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<p>
+   I build data pipelines and analytics tooling for energy grid reliability.
+  <a
+    href="https://www.linkedin.com/in/christianwittmartin/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Learning in public.
+  </a>
+</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/ChristianWittMartin/)
-  - [Converting an Old Macbook into a Linux Server](https://github.com/ChristianWittMartin/)
+<h2>Projects:</h2>
+
+ <b>📊 Data & Analytics Projects</b>
+  - [Ercot Market Analysis](https://github.com/ChristianWittMartin/ercot-market-analytics)
+  
+
+<b> Other Projects:</b>
+
+- [ApoyoPR - Charity Directory](https://github.com/ChristianWittMartin/ApoyoPR)
+- [Converting an Old Macbook into a Linux Server](https://github.com/ChristianWittMartin/)
 
 <h2>Certifications</h2>
 
