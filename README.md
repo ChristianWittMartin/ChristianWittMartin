@@ -1,7 +1,7 @@
 <h1>Hi, I'm Christian!</h1>
 
 <p>
-   I build data pipelines and analytics tooling for energy grid reliability.
+   Analyst with a background in supply chain and merchandising analytics. Building a portfolio in energy and logistics data.
   <a
     href="https://www.linkedin.com/in/christianwittmartin/"
     target="_blank"
